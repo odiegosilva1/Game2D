@@ -1,4 +1,4 @@
-# 🎮 Nome do Jogo
+# 🎮 Jogo 2D 
 
 ![Captura do Jogo](screenshot.png)
 
