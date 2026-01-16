@@ -14,9 +14,8 @@ dotnet run
 ```
 
 ## 🎮 Controles
-- **Setas ou WASD**: Mover
-- **Espaço**: Pular
-- **ESC**: Sair
+- **seta dir/ seta esq**: Mover
+
 
 ## 🛠️ Tecnologias
 - Raylib (biblioteca de jogos)
