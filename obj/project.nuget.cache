@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8RYlBoxpY6U2rfuBCFs4CrF2yLHHwzhSnm1EasgSLB8KU5XdUgDyayFg4jzTTpiaE4WMydBvfnc96gwWjeL1sw==",
+  "success": true,
+  "projectFilePath": "/home/nome/Documents/GitHub/App/App.csproj",
+  "expectedPackageFiles": [
+    "/home/nome/.nuget/packages/raylib-cs/7.0.2/raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
